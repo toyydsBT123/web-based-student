@@ -22,5 +22,6 @@ send File->server -> Access the uploaded php file -> PHP RCE
 ```
 
 ## Proof and Exploit:
-code![image](https://github.com/toyydsBT123/web-based-student/blob/main/1.png)
+Burp![image](https://github.com/toyydsBT123/web-based-student/blob/main/1.png)
 Firefox browser ![image](https://github.com/toyydsBT123/web-based-student/blob/main/2.png)
+code ![image](https://github.com/toyydsBT123/web-based-student/blob/main/3.png)
